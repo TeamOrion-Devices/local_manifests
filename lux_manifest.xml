@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<remove-project name="device_qcom_common" />
+<remove-project name="hardware_qcom_display" />
+<remove-project name="hardware_qcom_audio" />
+<remove-project name="hardware_qcom_media" />
+
+  <remote  name="cm"
+           fetch="https://github.com/Cyanogenmod/" />
+
+<project path="device/motorola/lux" name="device_motorola_lux" remote="to-d" />
+<project path="device/motorola/msm8916-common" name="device_motorola_msm8916-common" remote="to-d" />
+<project path="kernel/motorola/msm8916" name="Moto8916/android_kernel_motorola_msm8916" remote="github" revision="cm-13.0" />
+<project path="vendor/motorola" name="GtrCraft/proprietary_vendor_motorola" remote="github" revision="6.0" />
+<project path="external/bson" name="android_external_bson" remote="cm" revision="cm-13.0" />
+<project path="external/stlport" name="android_external_stlport" remote="cm" revision="cm-13.0" />
+<project path="vendor/qcom/opensource/dataservices" name="android_vendor_qcom_opensource_dataservices" remote="cm" revision="cm-13.0" />
+<project path="device/qcom/common" name="android_device_qcom_common" remote="cm" revision="cm-13.0" />
+<project name="android_hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8916" remote="cm" revision="cm-13.0-caf-8916" />
+<project name="android_hardware_qcom_display" path="hardware/qcom/display-caf/msm8916" remote="cm" revision="cm-13.0-caf-8916" />
+<project name="android_hardware_qcom_media" path="hardware/qcom/media-caf/msm8916" remote="cm" revision="cm-13.0-caf-8916" />
+</manifest>
