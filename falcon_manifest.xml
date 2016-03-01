@@ -1,0 +1,12 @@
+  <project name="TeamOrion-Devices/device_motorola_falcon" path="device/motorola
+/falcon" remote="github" revision="mm6.0" />
+  <project name="TeamOrion-Devices/device_motorola_msm8226-common" path="device/
+motorola/msm8226-common" remote="github" revision="mm6.0" />
+  <project name="TeamOrion-Devices/Orion_kernel_motorola_msm8226" path="kernel/m
+otorola/msm8226" remote="github" revision="6.0.1" />
+  <project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" 
+remote="github" revision="cm-13.0" />
+  <project name="Cyanogenmod/android_external_sony_boringssl-compat" path="exter
+nal/sony/boringssl-compat" remote="github" revision="cm-13.0" />
+  <project name="Cyanogenmod/android_external_stlport" path="external/stlport" r
+emote="github" revision="cm-13.0" />
