@@ -38,8 +38,4 @@
    <project name="GrinningFerret/arm-eabi-uber-4.9" path="prebuilts/gcc/linux-x86/arm/arm-eabi-uber-4.9" remote="github" revision="11-11-2015" />
    <project name="GrinningFerret/arm-linux-androideabi-uber-4.9" path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-uber-4.9" remote="github" revision="11-11-2015" />
    <project name="CyanogenMod/android_vendor_qcom_opensource_dataservices" path="vendor/qcom/opensource/dataservices" remote="github" revision="cm-13.0" />
-<!-- shamu -->
-   <project name="TeamOrion-Devices/device_motorola_shamu" path="device/moto/shamu" remote="github" revision="6.0.1_r10" />
-  <project name="PureNexusProject/proprietary_vendor_moto" path="vendor/moto" remote="github" revision="mm" />
-  <project name="DespairFactor/N6" path="kernel/moto/shamu" remote="github" revision="BFS-R" />
 </manifest>
