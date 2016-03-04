@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <project name="TeamOrion-Devices/device_motorola_shamu" path="device/moto/shamu" remote="github" revision="6.0.1_r10" />
-  <project name="PureNexusProject/proprietary_vendor_moto" path="vendor/moto" remote="github" revision="mm" />
-  <project name="DespairFactor/N6" path="kernel/moto/shamu" remote="github" revision="BFS-R" />
-</manifest>
