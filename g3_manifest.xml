@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please do not manually edit this file-->
+<manifest>
+  <project name="TeamOrion-Devices/device_lge_d850" path="device/lge/d850" remote="github" revision="6.0.1" />
+  <project name="TeamOrion-Devices/device_lge_d855" path="device/lge/d855" remote="github" revision="6.0.1" />
+  <project name="TeamOrion-Devices/device_lge_vs985" path="device/lge/vs985" remote="github" revision="6.0.1" />
+  <project name="CyanogenMod/android_kernel_lge_g3" path="kernel/lge/g3" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/android_device_lge_g3-common" path="device/lge/g3-common" remote="github" revision="cm-13.0" />
+  <project name="TheMuppets/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="cm-13.0" />
+</manifest>
