@@ -43,5 +43,7 @@
    <project name="fire855/android_kernel_xiaomi_ferrari" path="kernel/xiaomi/ferrari" remote="github" revision="cm-13.0" />
    <project name="TeamOrion-Devices/android_device_xiaomi_ferrari.git" path="device/xiaomi/ferrari" remote="github" revision="cm-13.0" />
    <project name="TeamOrion-Devices/android_vendor_xiaomi_ferrari.git" path="vendor/xiaomi/ferrari" remote="github" revision="cm-13.0" />
+   <project path="device/motorola/clark" name="TeamOrion-Devices/device_motorola_clark" remote="github" revision="6.0.1" />
+   <project path="kernel/motorola/msm8992" name="TeamOrion-Devices/kernel_motorola_msm8992" remote="github" revision="mm6.0" />
     
 </manifest>
