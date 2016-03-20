@@ -4,6 +4,8 @@
    <project name="TeamOrion-Devices/device_oppo_common" path="device/oppo/common" remote="github" revision="mm6.0" />
    <project name="Validus-Kernel/android_kernel_oneplus_msm8974" path="kernel/oneplus/msm8974" remote="github" revision="6.0.1" />
    <project name="TipsyOs-Devices/vendor_oneplus" path="vendor/oneplus" remote="github" revision="6.0" />
+   <project name="CyanogenMod/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" revision="cm-13.0"/>
+   <project name="CyanogenMod/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" revision="cm-13.0"/>
    <project name="Cyanogenmod/android_vendor_qcom_opensource_dataservices" path="vendor/qcom/opensource/dataservices" remote="github" revision="cm-13.0" />
    <project name="TipsyOs/android_packages_apps_SnapdragonCamera" path="packages/apps/SnapdragonCamera" remote="github" revision="cm-13.0-caf" />
    <project name="TeamOrion-Devices/device_motorola_falcon" path="device/motorola/falcon" remote="github" revision="6.0.1" />
